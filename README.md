@@ -19,9 +19,13 @@ du travail collaboratif :
 - Publication des modifications sur GitHub.
 ## 3. Bilan des commandes :
 **git status** :
+ 
  Elle permet de vérifier l'état du dépôt : fichiers modifiés, fichiers ajoutés et modifications non enregistrées dans un commit.
 **git remote -v**:
+
 Elle permet de vérifier l'adresse du dépôt GitHub associé au dépôt local, pour les opérations fetch et push.
+
 **git log --oneline --graph --all**
+
 Elle permet de visualiser l'historique des commits, les branches et les fusions sous forme graphique.
 
