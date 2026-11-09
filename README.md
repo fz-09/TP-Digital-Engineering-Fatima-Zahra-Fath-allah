@@ -7,8 +7,6 @@
 ## 2.Exercice 2 : calcul-c-equipe
 **Lien du dépôt GitHub :**
 **calcul-c-equipe** : https://github.com/fatimaezzahae/calcul-c-equipe.git
-**Etudiant:B**
-**Mon rôle : Étudiant B**
 **Mon rôle : Étudiant B**
 J'ai réalisé les opérations suivantes dans le cadre
 du travail collaboratif :
